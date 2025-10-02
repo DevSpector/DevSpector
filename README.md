@@ -20,7 +20,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSpector&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
