@@ -4,7 +4,7 @@
 
 - 💻 Building indie games and web projects
 - 👨‍💻 Working with **C, Unity, Python, HTML5** (front & back end)
-- 📘 Currently learning **Go**, **TypeScript**
+- 📘 Currently learning **Go**, **C++**
 
 ### 🖥️ Languages & Tools
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,py,lua,php,html,css,js,ts&theme=dark"/>
