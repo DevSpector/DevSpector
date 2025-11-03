@@ -4,13 +4,13 @@
 
 - 💻 Building indie games and web projects
 - 👨‍💻 Working with **C, Unity, Python, HTML5** (front & back end)
-- 📘 Currently learning **Go**, **C++**
+- 📘 Currently learning **C++**
 
 ### 🖥️ Languages & Tools
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,py,lua,php,html,css,js,ts&theme=dark"/>
 
 ### ⚡ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=nodejs,qt,dotnet,unity,cmake,opencv,gtk&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,qt,dotnet,unity&theme=dark"/>
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
