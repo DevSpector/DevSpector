@@ -10,7 +10,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,c,java,cs,go,py,lua,php,js,ts,cpp&theme=dark"/>
 
 ### ⚡ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=nodejs,qt,dotnet,unity&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,electron,qt,dotnet,unity&theme=dark"/>
 
 ### 🗄️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
