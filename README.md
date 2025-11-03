@@ -7,7 +7,7 @@
 - 📘 Currently learning **C++**
 
 ### 🖥️ Languages & Tools
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,go,py,lua,php,html,css,js,ts&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,c,java,cs,go,py,lua,php,js,ts,cpp&theme=dark"/>
 
 ### ⚡ Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=nodejs,qt,dotnet,unity&theme=dark"/>
