@@ -2,7 +2,7 @@
 
 Indie Game & Web Developer | Tech Enthusiast  
 
-- Building indie games, mods and web projects
+- Building indie games, mods, web projects and other things.
 
 ---
 
